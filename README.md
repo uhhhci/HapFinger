@@ -10,3 +10,7 @@ This repository contains all the necessary files to build a new device; model fi
 <p align="center"><img src="Media/app.png" width="50%"></p>
 
 The demo application requires a LeapMotion device to track the position of the hand and provide vibrotactile feedback whenever the index fingertip touches the objects in the 3D scene; the intensity of the feedback depends on the material properties (👉⬛️).
+
+<p align="center"><img src="Media/touchscreen.png" width="50%"></p>
+
+The device can also be used for touchscreen/tabletop interactions as can bee depicted above (HapRing, also built in our Lab); the vibrotactile feedback can be changed dinamically, according to the visual texture being touch on the screen.
